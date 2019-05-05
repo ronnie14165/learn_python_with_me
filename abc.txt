@@ -1,0 +1,9 @@
+print
+eval
+str
+input
+range
+if ... elif...
+while
+for
+def
