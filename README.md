@@ -175,13 +175,6 @@ if "python" in tutorial:
 else:
     print("No")
 ```
-tutorial = {"cpp","python", "java","python"}
-print(tutorial)
-if "python" in tutorial:
-    print("Yes")
-else:
-    print("No")
-```
 
 ### dictionary
 ```
