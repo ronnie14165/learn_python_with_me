@@ -10,3 +10,5 @@ cd learngit
 pwd
 
 
+#### Day83 - [支持向量机(SVM)](./Day76-90/08.支持向量机.md)
+
