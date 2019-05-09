@@ -1,5 +1,7 @@
 ## Python 基础知识介绍
 
+- [货币转换器](./code/currency_converter_v3.0.md)
+
 ### input && output
 ```
 import math
