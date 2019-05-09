@@ -1,5 +1,5 @@
 ```
-#Author£º Ronnie Lee
+#Author: Ronnie Lee
 #mail:ronnie14165@gmail.com
 #url:ronnie14165.github.com
 
