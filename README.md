@@ -1,6 +1,6 @@
 ## Python 基础知识介绍
 
-- [货币转换器](./code/currency_converter_v3.0.md)
+- [初级成品货币转换器](./code/currency_converter_v5.0.md)
 
 ### input && output
 ```
