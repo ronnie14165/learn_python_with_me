@@ -1,8 +1,8 @@
-# Author： Ronnie Lee
+﻿# Author： Ronnie Lee
 # mail:ronnie14165@gmail.com
 # url:ronnie14165.github.com
 # bugs when input usd!!!!!!
-print('Welcome to use currency_converter_v4.0!')
+print('Welcome to use currency_converter_v5.0!')
 print('Hint: input <quit> when you want to quit')
 print('Hint: input samples: 100usd; 100rmb')
 

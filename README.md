@@ -1,6 +1,7 @@
 ## Python 基础知识介绍
 
 - [初级成品货币转换器](./code/currency_converter_v5.0.md)
+- [递归实现分形树](./code/pentagram.md)
 
 ### input && output
 ```
