@@ -1,7 +1,10 @@
-## Python 基础知识介绍
-
+## Python实例练习
 - [初级成品货币转换器](./code/currency_converter_v5.0.md)
 - [递归实现分形树](./code/pentagram.md)
+- [基础代谢计算](./code/bmr_v4.0.md)
+- [存钱挑战](./code/money_challenge_v2.0.md)
+
+## Python 基础知识介绍
 
 ### input && output
 ```
@@ -454,6 +457,7 @@ fr.close()
 ### error
 异常
 ```
+# try中间的内容会被监视，其中发生错误则会停止继续执行，进行except中的内容
 while True:
     try:
         number = int(input("What is your favorite number? "))  # 输入字符会触发异常；输入0无实数意义
