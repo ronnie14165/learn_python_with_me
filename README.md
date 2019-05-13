@@ -2,7 +2,8 @@
 - [初级成品货币转换器](./code/currency_converter_v5.0.md)
 - [递归实现分形树](./code/pentagram.md)
 - [基础代谢计算](./code/bmr_v4.0.md)
-- [存钱挑战](./code/money_challenge_v2.0.md)
+- [存钱挑战](./code/money_challenge_v5.0.md)
+- [年份日期查询器](./code/money_challenge_v5.0.md)
 
 ## Python 基础知识介绍
 
