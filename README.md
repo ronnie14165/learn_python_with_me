@@ -3,7 +3,10 @@
 - [递归实现分形树](./code/pentagram.md)
 - [基础代谢计算](./code/bmr_v4.0.md)
 - [存钱挑战](./code/money_challenge_v5.0.md)
-- [年份日期查询器](./code/money_challenge_v5.0.md)
+- [年份日期查询器](./code/judge_the_day_v1.0.md)
+- [密钥鉴别](./code/password_v5.0.md)
+
+
 
 ## Python 基础知识介绍
 
